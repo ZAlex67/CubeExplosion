@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|solutionrelative:assets\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|d:\\myunityproject\\cubeexplosion\\assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|D:\\MyUnityProject\\CubeExplosion\\assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|solutionrelative:assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\Cube.cs",
+              "ToolTip": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Cube.cs",
+              "RelativeToolTip": "Assets\\Cube.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:11:53.244Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -31,19 +44,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T06:03:16.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cube.cs",
-              "DocumentMoniker": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Cube.cs",
-              "RelativeDocumentMoniker": "Assets\\Cube.cs",
-              "ToolTip": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Cube.cs",
-              "RelativeToolTip": "Assets\\Cube.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:11:53.244Z",
               "EditorCaption": ""
             }
           ]
