@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\MyUnityProject\\CubeExplosion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|d:\\myunityproject\\cubeexplosion\\assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|solutionrelative:assets\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|d:\\myunityproject\\cubeexplosion\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|D:\\MyUnityProject\\CubeExplosion\\assets\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|solutionrelative:assets\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|D:\\MyUnityProject\\CubeExplosion\\assets\\scripts\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F964DA8-4ADF-0253-0050-C8EC925C989D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubeexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cube.cs",
-              "DocumentMoniker": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Cube.cs",
-              "RelativeDocumentMoniker": "Assets\\Cube.cs",
-              "ToolTip": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Cube.cs",
-              "RelativeToolTip": "Assets\\Cube.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAAjAAAA",
+              "Title": "CubeExplosion.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Scripts\\CubeExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeExplosion.cs",
+              "ToolTip": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Scripts\\CubeExplosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeExplosion.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:11:53.244Z",
+              "WhenOpened": "2024-04-22T12:20:14.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CubeExplosion.cs",
-              "DocumentMoniker": "D:\\MyUnityProject\\CubeExplosion\\Assets\\CubeExplosion.cs",
-              "RelativeDocumentMoniker": "Assets\\CubeExplosion.cs",
-              "ToolTip": "D:\\MyUnityProject\\CubeExplosion\\Assets\\CubeExplosion.cs",
-              "RelativeToolTip": "Assets\\CubeExplosion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAzAAAA",
+              "Title": "Cube.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Scripts\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cube.cs",
+              "ToolTip": "D:\\MyUnityProject\\CubeExplosion\\Assets\\Scripts\\Cube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:03:16.795Z",
+              "WhenOpened": "2024-04-22T12:20:08.091Z",
               "EditorCaption": ""
             }
           ]
